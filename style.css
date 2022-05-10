@@ -24,6 +24,10 @@ background-repeat: no-repeat;
 border-radius: 10px;
 box-shadow: 0px 0px 6px 0px rgba(50, 50, 50, 0.48);
 background-color: rgba(228, 228, 4, 0.767);
+border: 2px solid transparent;
+/* cursor: pointer; */
+
+
 
 }
 /* .card-grid:hover{
@@ -37,6 +41,10 @@ background-color: rgba(228, 228, 4, 0.767);
 .match{
     border: 2px solid rgb(0, 248, 62);
 
+}
+
+.unmatch{
+    border: 2px solid rgb(248, 33, 0);
 }
 
 .remove-img{
